@@ -1,0 +1,33 @@
+#container{
+    width: 70%;
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #E6DBF5;
+}
+
+h2{
+font-family: 'Source Sans Pro', sans-serif;
+background-color: #C568E2;
+} 
+
+li{
+font-family: 'Source Sans Pro', sans-serif;
+}
+p{
+font-family: 'Source Sans Pro', sans-serif;
+}
+.Imagen-1{
+    border-radius: 20px;
+    }
+    
+    .Imagen-2{
+    border-radius: 20px;
+    }
+
+    .Imagen-1{
+        top: px;
+       position: relative;
+    }
+    
